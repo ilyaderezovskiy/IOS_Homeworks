@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EE8739A-ED30-4FA3-9D03-08FDC6BFA7A4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B7EFC91-E2C5-4D77-9631-91B10A1B1F46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "idderezovskiyPW3/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3B7EFC91-E2C5-4D77-9631-91B10A1B1F46 - 9f26df116ebb563e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idderezovskiyPW3.CollectionViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; idderezovskiyPW3.CollectionViewController"
+                  moduleName = "idderezovskiyPW3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyaderezovskiy/Projects/idderezovskiyPW3/idderezovskiyPW3/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3B7EFC91-E2C5-4D77-9631-91B10A1B1F46 - 91158a57c67e6cc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idderezovskiyPW3.CollectionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; idderezovskiyPW3.CollectionViewController"
+                  moduleName = "idderezovskiyPW3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyaderezovskiy/Projects/idderezovskiyPW3/idderezovskiyPW3/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "165">
+               </Location>
+               <Location
+                  uuid = "3B7EFC91-E2C5-4D77-9631-91B10A1B1F46 - 30bbd6c73dd8c96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idderezovskiyPW3.CollectionViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;idderezovskiyPW3.CollectionViewController&gt;"
+                  moduleName = "idderezovskiyPW3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyaderezovskiy/Projects/idderezovskiyPW3/idderezovskiyPW3/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3B7EFC91-E2C5-4D77-9631-91B10A1B1F46 - 188f71bd3fa8720d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idderezovskiyPW3.CollectionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;idderezovskiyPW3.CollectionViewController&gt;"
+                  moduleName = "idderezovskiyPW3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyaderezovskiy/Projects/idderezovskiyPW3/idderezovskiyPW3/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "121">
+               </Location>
+               <Location
+                  uuid = "3B7EFC91-E2C5-4D77-9631-91B10A1B1F46 - ca5eb58c618fcb15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idderezovskiyPW3.CollectionViewController.__deallocating_deinit"
+                  moduleName = "idderezovskiyPW3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyaderezovskiy/Projects/idderezovskiyPW3/idderezovskiyPW3/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
